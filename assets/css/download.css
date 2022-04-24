@@ -1,5 +1,5 @@
 .btn {
-  background-color: DodgerBlue;
+  background-color: #660000;
   border: none;
   color: white;
   padding: 12px 30px;
@@ -8,5 +8,5 @@
 }
 
 .btn:hover {
-  background-color: RoyalBlue;
+  background-color: #8b0000;
 }
